@@ -24,10 +24,10 @@ h1 {
     text-shadow: 1px 1px black;
 }
 h3 {
-    color: #020749;
-    font-size: 28pt;
-    text-align: center;
-    font-weight: 300;
+    color: #EE8600;
+    font-size: 18pt;
+    font-weight: 50;
+    text-shadow: 1px 1px black;
 }
 a {
     text-decoration: none;
@@ -157,7 +157,7 @@ ul > li {
     .descriptionContentText {
         width: 75%;
     }
-    h2 {
+    h2, h3 {
         font-size: 18pt;
     }
     .footer-placeholder {
@@ -181,7 +181,7 @@ ul > li {
     .descriptionContentText{
         width: 60%;
     }
-    h2 {
+    h2, h3 {
         font-size: 14pt;
     }
     .footer-placeholder {
